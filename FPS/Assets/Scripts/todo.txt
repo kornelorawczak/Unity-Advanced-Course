@@ -1,0 +1,4 @@
+- winning level 
+- medkits
+
+? blood stains when we got damaged or enemy

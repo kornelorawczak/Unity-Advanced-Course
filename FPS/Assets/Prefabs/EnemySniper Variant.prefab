@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7395190782636149710
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 146864909183034696, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a3bab6f8c5c2f2641a35f42c98ed853a, type: 2}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -141.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.444
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -25.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 931750598925477614, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449268697296969126, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_Speed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5722106774094193038, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: fireRate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5722106774094193038, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: fieldOfView
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5722106774094193038, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: sightDistance
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084230307471787742, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
+      propertyPath: m_Name
+      value: EnemySniper Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d2aaec82673ccb499db273372a84497, type: 3}
